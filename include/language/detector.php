@@ -8,8 +8,12 @@ class Polskieai_Language_Detector
     protected $countries = array (
         'pl' => false,
         'en' => false,
+        'de' => false,
         'es' => false,
+        'fr' => false,
+        'it' => false,
         'nl' => false,
+        'no' => false,
         'pt' => false,
         'hr' => false,
         'sk' => false,
